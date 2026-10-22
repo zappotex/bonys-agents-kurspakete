@@ -10,8 +10,8 @@
       "beschreibung": "Hermes wiederkehrende Aufgaben erledigen lassen: Recherche mit Quellen, Zusammenfassungen von Dokumenten, Ordnung in Dateien – und die Ergebnisse zuverlässig prüfen.",
       "entwurf": true,
       "datei": "pakete/aufgaben-automatisieren-0.1.0.bonyspaket",
-      "sha256": "a285e57dcc41327d26c44109ca6d34a79f9210975bc8c413c8c992d6aa8ff731",
-      "groesse": 5306
+      "sha256": "e651f950121f66d04d9c08f750ac24cf8a363fa872690647a27e070153dcd822",
+      "groesse": 5308
     },
     {
       "id": "eigene-werkzeuge-und-mission-control",
@@ -22,8 +22,8 @@
       "beschreibung": "Hermes mit eigenen Werkzeugen und Skills erweitern, MCP-Server anbinden und mehrere Agenten mit Mission Control (Docker) im Blick behalten.",
       "entwurf": true,
       "datei": "pakete/eigene-werkzeuge-und-mission-control-0.1.0.bonyspaket",
-      "sha256": "f693627788b9dded6ead96c1de9b0b7dd3ba01e80343e68f1bb66d8412515729",
-      "groesse": 5093
+      "sha256": "8ad403ac9294a7266588577d53202f096f40111ff684a134c7a74cdd732d4189",
+      "groesse": 5092
     },
     {
       "id": "einfuehrung-hermes-agent",
@@ -33,8 +33,8 @@
       "dauer_minuten": 120,
       "beschreibung": "Was ein KI-Agent ist, wie man ihm Aufgaben in einfacher Sprache gibt, wie man das Ergebnis selbst prüft und wo die Grenzen sind. Alle arbeiten mit Hermes in ihrem eigenen, abgeschotteten Agent-PC – mit einem kostenlosen Modell. Als 2-Stunden-Kurs oder allein im Selbstlern-Modus.",
       "datei": "pakete/einfuehrung-hermes-agent-1.0.1.bonyspaket",
-      "sha256": "b302f01677f2c7104ef0cfacd4b3db0cffeafb7267c4846d9f0b4ee65f6eb8f6",
-      "groesse": 29822
+      "sha256": "ef3c1817789ee75d6e33d5d0a209633aa36b2fea185df95fbcb322f6bb07cd5c",
+      "groesse": 29823
     },
     {
       "id": "hermes-ueber-telegram",
@@ -45,8 +45,8 @@
       "beschreibung": "Hermes mit einem eigenen Telegram-Bot verbinden und den Agenten vom Handy aus nutzen – sicher, mit eigener Freigabeliste.",
       "entwurf": true,
       "datei": "pakete/hermes-ueber-telegram-0.1.0.bonyspaket",
-      "sha256": "6291cea8505264d2b8c8b61bdec17dc4c390d0d3bd0d6d841fe6ffaf00b8f118",
-      "groesse": 4840
+      "sha256": "7b2b0699a16ab5c65a510cc8e81274cbf23243e64b4aba500f28972270966309",
+      "groesse": 4842
     },
     {
       "id": "lokale-modelle-vpn-mehrere-agenten",
@@ -57,8 +57,19 @@
       "beschreibung": "Ein Modell auf dem eigenen Rechner statt in der Cloud betreiben, Agent-PCs per VPN verbinden und mehrere Agenten gemeinsam an einer Aufgabe arbeiten lassen.",
       "entwurf": true,
       "datei": "pakete/lokale-modelle-vpn-mehrere-agenten-0.1.0.bonyspaket",
-      "sha256": "3b9303d0084065bf62fb862026339cd29cd2afc4983d8f2446d5c58ac7218c6d",
-      "groesse": 5279
+      "sha256": "54c07e2c64e9da22a893819c20826d02637b7ddac14437785f7eb9d2c82be9d8",
+      "groesse": 5277
+    },
+    {
+      "id": "n8n-grundlagen",
+      "name": "n8n-Grundlagen: der erste Workflow",
+      "version": "1.0.0",
+      "stufe": "anfaenger",
+      "dauer_minuten": 90,
+      "beschreibung": "Abläufe, die von selbst laufen: Jeder öffnet n8n im eigenen Agent-PC, lernt Auslöser, Knoten und Verbindungen kennen und baut einen Workflow, der neue Nachrichten aus einem RSS-Feed per Telegram aufs Handy schickt – getestet, veröffentlicht und als Datei gesichert. Kurs der Reihe „Agenten, MCP-Apps und n8n“, geht auch ohne Vorwissen über Hermes; als 90-Minuten-Kurs oder allein im Selbstlern-Modus.",
+      "datei": "pakete/n8n-grundlagen-1.0.0.bonyspaket",
+      "sha256": "99d687862b1fc07a2d3828fb785aad26fa13243bb4a3a5fa1ad660d129d9cbc5",
+      "groesse": 24673
     },
     {
       "id": "sicherheit-fuer-ki-agenten",
@@ -69,8 +80,19 @@
       "beschreibung": "Was darf ein Agent? Versteckte Anweisungen (Prompt-Injection) erkennen, Rechte und Werkzeuge begrenzen, Zugangsdaten schützen und im Ernstfall richtig reagieren.",
       "entwurf": true,
       "datei": "pakete/sicherheit-fuer-ki-agenten-0.1.0.bonyspaket",
-      "sha256": "f875f529e31c50f31ae0fd755a240afcf65ceefae2f97bd13687b0f7557aa362",
-      "groesse": 5267
+      "sha256": "985165bf542f14688e897cea50dcb960b253d4e69445e07e25a2b6e5411a311e",
+      "groesse": 5268
+    },
+    {
+      "id": "was-ist-ein-mcp-server",
+      "name": "Was ist ein MCP-Server? Hermes bekommt Werkzeuge",
+      "version": "1.0.0",
+      "stufe": "anfaenger",
+      "dauer_minuten": 90,
+      "beschreibung": "Ein Agent ohne passende Werkzeuge ist ein kluger Kopf ohne Hände. In diesem Kurs findet jeder in der Liste „Agenten-Apps“ das PDF-Programm PdfCraft, installiert es aus der offiziellen Quelle, meldet seinen MCP-Server bei Hermes an und lässt Hermes echte PDFs zusammenfassen, drehen und zusammenfügen. Erster Kurs der Reihe „Agenten, MCP-Apps und n8n“; als 90-Minuten-Kurs oder allein im Selbstlern-Modus.",
+      "datei": "pakete/was-ist-ein-mcp-server-1.0.0.bonyspaket",
+      "sha256": "cd4489b189f552ae841b2afeffcd85afb7d34a26f064211f51a136369c765171",
+      "groesse": 28370
     }
   ]
 }
