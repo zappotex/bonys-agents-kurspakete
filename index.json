@@ -10,8 +10,8 @@
       "beschreibung": "Hermes wiederkehrende Aufgaben erledigen lassen: Recherche mit Quellen, Zusammenfassungen von Dokumenten, Ordnung in Dateien – und die Ergebnisse zuverlässig prüfen.",
       "entwurf": true,
       "datei": "pakete/aufgaben-automatisieren-0.1.0.bonyspaket",
-      "sha256": "33f1108bd99afec5b24aefc4d49ee608f420021d8c923a9894a1303f8f296d35",
-      "groesse": 5309
+      "sha256": "a285e57dcc41327d26c44109ca6d34a79f9210975bc8c413c8c992d6aa8ff731",
+      "groesse": 5306
     },
     {
       "id": "eigene-werkzeuge-und-mission-control",
@@ -22,19 +22,19 @@
       "beschreibung": "Hermes mit eigenen Werkzeugen und Skills erweitern, MCP-Server anbinden und mehrere Agenten mit Mission Control (Docker) im Blick behalten.",
       "entwurf": true,
       "datei": "pakete/eigene-werkzeuge-und-mission-control-0.1.0.bonyspaket",
-      "sha256": "9ff0f4e704b12bffc1811120bc3accb03f7eec1359398cef1d279f65aac00c25",
-      "groesse": 5094
+      "sha256": "f693627788b9dded6ead96c1de9b0b7dd3ba01e80343e68f1bb66d8412515729",
+      "groesse": 5093
     },
     {
       "id": "einfuehrung-hermes-agent",
       "name": "Einführung in Hermes Agent",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "stufe": "anfaenger",
       "dauer_minuten": 120,
       "beschreibung": "Was ein KI-Agent ist, wie man ihm Aufgaben in einfacher Sprache gibt, wie man das Ergebnis selbst prüft und wo die Grenzen sind. Alle arbeiten mit Hermes in ihrem eigenen, abgeschotteten Agent-PC – mit einem kostenlosen Modell. Als 2-Stunden-Kurs oder allein im Selbstlern-Modus.",
-      "datei": "pakete/einfuehrung-hermes-agent-1.0.0.bonyspaket",
-      "sha256": "09a99ee2a80d1c3ec71691fde898d82bb67bd9842ef742b9b4397e696197daf8",
-      "groesse": 29722
+      "datei": "pakete/einfuehrung-hermes-agent-1.0.1.bonyspaket",
+      "sha256": "b302f01677f2c7104ef0cfacd4b3db0cffeafb7267c4846d9f0b4ee65f6eb8f6",
+      "groesse": 29822
     },
     {
       "id": "hermes-ueber-telegram",
@@ -45,8 +45,8 @@
       "beschreibung": "Hermes mit einem eigenen Telegram-Bot verbinden und den Agenten vom Handy aus nutzen – sicher, mit eigener Freigabeliste.",
       "entwurf": true,
       "datei": "pakete/hermes-ueber-telegram-0.1.0.bonyspaket",
-      "sha256": "2c3351b2501d65c3b103f1afecdc85aca8b8dd330f61ee48135b6f7d246e2860",
-      "groesse": 4841
+      "sha256": "6291cea8505264d2b8c8b61bdec17dc4c390d0d3bd0d6d841fe6ffaf00b8f118",
+      "groesse": 4840
     },
     {
       "id": "lokale-modelle-vpn-mehrere-agenten",
@@ -57,8 +57,8 @@
       "beschreibung": "Ein Modell auf dem eigenen Rechner statt in der Cloud betreiben, Agent-PCs per VPN verbinden und mehrere Agenten gemeinsam an einer Aufgabe arbeiten lassen.",
       "entwurf": true,
       "datei": "pakete/lokale-modelle-vpn-mehrere-agenten-0.1.0.bonyspaket",
-      "sha256": "3b664ee8b29225f579f3974126a2df0d7f1d7bb0aa78077ba899ee7d418d4f0f",
-      "groesse": 5277
+      "sha256": "3b9303d0084065bf62fb862026339cd29cd2afc4983d8f2446d5c58ac7218c6d",
+      "groesse": 5279
     },
     {
       "id": "sicherheit-fuer-ki-agenten",
@@ -69,8 +69,8 @@
       "beschreibung": "Was darf ein Agent? Versteckte Anweisungen (Prompt-Injection) erkennen, Rechte und Werkzeuge begrenzen, Zugangsdaten schützen und im Ernstfall richtig reagieren.",
       "entwurf": true,
       "datei": "pakete/sicherheit-fuer-ki-agenten-0.1.0.bonyspaket",
-      "sha256": "32a34e2e504cc8b8f73ff344ca1d8c0889bffa60ce22a84bbe509673c48d9a78",
-      "groesse": 5268
+      "sha256": "f875f529e31c50f31ae0fd755a240afcf65ceefae2f97bd13687b0f7557aa362",
+      "groesse": 5267
     }
   ]
 }
