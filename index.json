@@ -8,10 +8,24 @@
       "stufe": "fortgeschritten",
       "dauer_minuten": 120,
       "beschreibung": "Hermes wiederkehrende Aufgaben erledigen lassen: Recherche mit Quellen, Zusammenfassungen von Dokumenten, Ordnung in Dateien – und die Ergebnisse zuverlässig prüfen.",
+      "sprache": "de",
       "entwurf": true,
       "datei": "pakete/aufgaben-automatisieren-0.1.0.bonyspaket",
-      "sha256": "17e6a9f8918b52a1c918f4b3d05a578df03e09437d9cb6bb7a8c9c3a2743fb4a",
-      "groesse": 5307
+      "sha256": "594bbbedcbfc5ea1d3cee46bc5f1e30b74a9d513dd579c2a0d5ab9c4e88ce212",
+      "groesse": 5310
+    },
+    {
+      "id": "aufgaben-automatisieren-en",
+      "name": "Automating tasks: research, summaries, files",
+      "version": "0.1.0",
+      "stufe": "fortgeschritten",
+      "dauer_minuten": 120,
+      "beschreibung": "Have Hermes do recurring tasks: research with sources, summaries of documents, order in files – and check the results reliably.",
+      "sprache": "en",
+      "entwurf": true,
+      "datei": "pakete/aufgaben-automatisieren-en-0.1.0.bonyspaket",
+      "sha256": "c4b499404ebce825a56f3fa955499bf4c11266931baaa1648883aff68267b6b6",
+      "groesse": 5072
     },
     {
       "id": "bonys-vpn-privater-surfen",
@@ -20,9 +34,22 @@
       "stufe": "anfaenger",
       "dauer_minuten": 90,
       "beschreibung": "Was ein VPN ist, was es bringt – und was nicht: Jeder holt sich eine WireGuard-Konfiguration beim kostenlosen Tarif von Proton VPN (oder von der eigenen FRITZ!Box), importiert sie in Bony's VPN im eigenen Agent-PC, verbindet und prüft die öffentliche Adresse. Dazu Kill-Switch und automatisch verbinden, Prüfseiten für DNS und Tracker, das private Fenster mit Tor und der Wegwerf-PC – ehrlich erklärt: privater, nicht anonym. Als 90-Minuten-Kurs oder allein im Selbstlern-Modus.",
+      "sprache": "de",
       "datei": "pakete/bonys-vpn-privater-surfen-1.0.0.bonyspaket",
-      "sha256": "18d8e7f03b69aa2478b3e59c30fa98160254777dd27796b7df3b6ad9825d18da",
-      "groesse": 28859
+      "sha256": "9d209ed33b5b82966a492ff3acaa8bfd3fbcc4a659f1ae322fa9703635dd51d5",
+      "groesse": 28856
+    },
+    {
+      "id": "bonys-vpn-privater-surfen-en",
+      "name": "Bony's VPN: safer and more private online",
+      "version": "1.0.0",
+      "stufe": "anfaenger",
+      "dauer_minuten": 90,
+      "beschreibung": "What a VPN is, what it does – and what it doesn't: everyone gets a WireGuard configuration from Proton VPN's free plan (or from their own FRITZ!Box), imports it into Bony's VPN in their own Agent PC, connects and checks the public address. Plus kill switch and connecting automatically, test pages for DNS and trackers, the private window with Tor and the throwaway PC – explained honestly: more private, not anonymous. As a 90-minute course or on your own in self-study mode.",
+      "sprache": "en",
+      "datei": "pakete/bonys-vpn-privater-surfen-en-1.0.0.bonyspaket",
+      "sha256": "36e9a6fc9f2c0bf9c747c51ccbc1881b4ab1f1f9689f509b9fe23745f28f7876",
+      "groesse": 27533
     },
     {
       "id": "eigene-werkzeuge-und-mission-control",
@@ -31,10 +58,24 @@
       "stufe": "experte",
       "dauer_minuten": 180,
       "beschreibung": "Hermes mit eigenen Werkzeugen und Skills erweitern, MCP-Server anbinden und mehrere Agenten mit Mission Control (Docker) im Blick behalten.",
+      "sprache": "de",
       "entwurf": true,
       "datei": "pakete/eigene-werkzeuge-und-mission-control-0.1.0.bonyspaket",
-      "sha256": "4eaef1068d37fdc5c363c0c140721722d17ed07a38363fad65081fd5bb393b4c",
+      "sha256": "f242d9dcc2fe09aaaeca0d234ca5a8be928006cd7413f486fd10aef19a4ef610",
       "groesse": 5093
+    },
+    {
+      "id": "eigene-werkzeuge-und-mission-control-en",
+      "name": "Your own tools and skills for Hermes, Mission Control with Docker",
+      "version": "0.1.0",
+      "stufe": "experte",
+      "dauer_minuten": 180,
+      "beschreibung": "Extend Hermes with your own tools and skills, connect MCP servers and keep an eye on several agents with Mission Control (Docker).",
+      "sprache": "en",
+      "entwurf": true,
+      "datei": "pakete/eigene-werkzeuge-und-mission-control-en-0.1.0.bonyspaket",
+      "sha256": "4bb32ec0c93612aa894036377fe1482d13d5704948680e8f4326b0e0ba6dc2a2",
+      "groesse": 4919
     },
     {
       "id": "einfuehrung-hermes-agent",
@@ -43,9 +84,22 @@
       "stufe": "anfaenger",
       "dauer_minuten": 120,
       "beschreibung": "Was ein KI-Agent ist, wie man ihm Aufgaben in einfacher Sprache gibt, wie man das Ergebnis selbst prüft und wo die Grenzen sind. Alle arbeiten mit Hermes in ihrem eigenen, abgeschotteten Agent-PC – mit einem kostenlosen Modell. Als 2-Stunden-Kurs oder allein im Selbstlern-Modus.",
+      "sprache": "de",
       "datei": "pakete/einfuehrung-hermes-agent-1.0.1.bonyspaket",
-      "sha256": "96e45987198a3d6be57d9747d8a7ecd2c332c6db8811293574b316154bc17e7d",
+      "sha256": "b2ac339482db5b711401d1070655b8374b18c8da1c4e2dd3ca0eafa79e27037a",
       "groesse": 29822
+    },
+    {
+      "id": "einfuehrung-hermes-agent-en",
+      "name": "Introduction to Hermes Agent",
+      "version": "1.0.1",
+      "stufe": "anfaenger",
+      "dauer_minuten": 120,
+      "beschreibung": "What an AI agent is, how to give it tasks in plain language, how to check the result yourself and where its limits are. Everyone works with Hermes in their own isolated Agent PC – with a free model. As a 2-hour course or on your own in self-study mode.",
+      "sprache": "en",
+      "datei": "pakete/einfuehrung-hermes-agent-en-1.0.1.bonyspaket",
+      "sha256": "cffd83a733e7fe7fae7a14d64352639c0fe761ef52e250e31550fa61814e22bc",
+      "groesse": 27916
     },
     {
       "id": "hermes-ueber-telegram",
@@ -54,10 +108,24 @@
       "stufe": "anfaenger",
       "dauer_minuten": 90,
       "beschreibung": "Hermes mit einem eigenen Telegram-Bot verbinden und den Agenten vom Handy aus nutzen – sicher, mit eigener Freigabeliste.",
+      "sprache": "de",
       "entwurf": true,
       "datei": "pakete/hermes-ueber-telegram-0.1.0.bonyspaket",
-      "sha256": "def6ffbc2f2ae5008445a30900683f6447653a3bb800da7552cc40d7308af7a0",
-      "groesse": 4842
+      "sha256": "7a794affe4fa61cfe9c2a9ecd0d0114f25e11ee4dc881d5ef40487f566d0f563",
+      "groesse": 4841
+    },
+    {
+      "id": "hermes-ueber-telegram-en",
+      "name": "Controlling Hermes via Telegram",
+      "version": "0.1.0",
+      "stufe": "anfaenger",
+      "dauer_minuten": 90,
+      "beschreibung": "Connect Hermes to a Telegram bot of your own and use the agent from your phone – safely, with your own allow list.",
+      "sprache": "en",
+      "entwurf": true,
+      "datei": "pakete/hermes-ueber-telegram-en-0.1.0.bonyspaket",
+      "sha256": "85b0a4b511a6d31a61e0f5c86028b64291ea601fafcdba0b733a1a86cc201705",
+      "groesse": 4663
     },
     {
       "id": "lokale-modelle-vpn-mehrere-agenten",
@@ -66,10 +134,24 @@
       "stufe": "experte",
       "dauer_minuten": 180,
       "beschreibung": "Ein Modell auf dem eigenen Rechner statt in der Cloud betreiben, Agent-PCs per VPN verbinden und mehrere Agenten gemeinsam an einer Aufgabe arbeiten lassen.",
+      "sprache": "de",
       "entwurf": true,
       "datei": "pakete/lokale-modelle-vpn-mehrere-agenten-0.1.0.bonyspaket",
-      "sha256": "df488be0e3265e34668a8ac8c5b742e60cdc103d6d30f0e2dc88e91f16f7fc1a",
-      "groesse": 5279
+      "sha256": "4175c9b0acb5e0b8cd3b183167b98e27d82fc2cbd1c30d078bf54f64b0a94486",
+      "groesse": 5277
+    },
+    {
+      "id": "lokale-modelle-vpn-mehrere-agenten-en",
+      "name": "Local models, VPN and several agents",
+      "version": "0.1.0",
+      "stufe": "experte",
+      "dauer_minuten": 180,
+      "beschreibung": "Run a model on your own computer instead of in the cloud, connect Agent PCs via VPN and let several agents work together on a task.",
+      "sprache": "en",
+      "entwurf": true,
+      "datei": "pakete/lokale-modelle-vpn-mehrere-agenten-en-0.1.0.bonyspaket",
+      "sha256": "9b76bfbf8ede54b9e9c4219c39392f65c5b02bdf6ceda40ac5d65238c91e0f47",
+      "groesse": 5036
     },
     {
       "id": "n8n-grundlagen",
@@ -78,9 +160,22 @@
       "stufe": "anfaenger",
       "dauer_minuten": 90,
       "beschreibung": "Abläufe, die von selbst laufen: Jeder öffnet n8n im eigenen Agent-PC, lernt Auslöser, Knoten und Verbindungen kennen und baut einen Workflow, der neue Nachrichten aus einem RSS-Feed per Telegram aufs Handy schickt – getestet, veröffentlicht und als Datei gesichert. Kurs der Reihe „Agenten, MCP-Apps und n8n“, geht auch ohne Vorwissen über Hermes; als 90-Minuten-Kurs oder allein im Selbstlern-Modus.",
+      "sprache": "de",
       "datei": "pakete/n8n-grundlagen-1.0.0.bonyspaket",
-      "sha256": "229fd43d4cc1c2ede9c9ec0b3bcbe9b381de54e351a983a96b3f88a99f5182aa",
-      "groesse": 24675
+      "sha256": "5e9a86ded98609802fcdf2606f341fb3c0c562d307b4ad837fc107c7b6e94e35",
+      "groesse": 24671
+    },
+    {
+      "id": "n8n-grundlagen-en",
+      "name": "n8n basics: the first workflow",
+      "version": "1.0.0",
+      "stufe": "anfaenger",
+      "dauer_minuten": 90,
+      "beschreibung": "Workflows that run by themselves: everyone opens n8n in their own Agent PC, gets to know triggers, nodes and connections and builds a workflow that sends new items from an RSS feed to their phone via Telegram – tested, published and saved as a file. Course in the series “Agents, MCP apps and n8n”, works without prior knowledge of Hermes; as a 90-minute course or on your own in self-study mode.",
+      "sprache": "en",
+      "datei": "pakete/n8n-grundlagen-en-1.0.0.bonyspaket",
+      "sha256": "a7d7b63eb3c2e3c8c81f9c7a96ab24a18be352f7d1e8554958e7e3eb4b58388a",
+      "groesse": 23122
     },
     {
       "id": "sicherheit-fuer-ki-agenten",
@@ -89,10 +184,24 @@
       "stufe": "fortgeschritten",
       "dauer_minuten": 120,
       "beschreibung": "Was darf ein Agent? Versteckte Anweisungen (Prompt-Injection) erkennen, Rechte und Werkzeuge begrenzen, Zugangsdaten schützen und im Ernstfall richtig reagieren.",
+      "sprache": "de",
       "entwurf": true,
       "datei": "pakete/sicherheit-fuer-ki-agenten-0.1.0.bonyspaket",
-      "sha256": "4d31079c35d9058e95e3ea54ac65d910c25b241db89087dea172c7cbd00ee272",
+      "sha256": "cc579b3793d31991da1774f8cf00ab53e89153d8684443030c1b8022415aa497",
       "groesse": 5266
+    },
+    {
+      "id": "sicherheit-fuer-ki-agenten-en",
+      "name": "Security for AI agents: limiting permissions, recognizing prompt injection",
+      "version": "0.1.0",
+      "stufe": "fortgeschritten",
+      "dauer_minuten": 120,
+      "beschreibung": "What may an agent do? Recognize hidden instructions (prompt injection), limit permissions and tools, protect credentials and react correctly in an emergency.",
+      "sprache": "en",
+      "entwurf": true,
+      "datei": "pakete/sicherheit-fuer-ki-agenten-en-0.1.0.bonyspaket",
+      "sha256": "a8ff8b069439cb7e24146637e059cfc004d833854daec7c1a60b03b07dfbff49",
+      "groesse": 5079
     },
     {
       "id": "was-ist-ein-mcp-server",
@@ -101,9 +210,22 @@
       "stufe": "anfaenger",
       "dauer_minuten": 90,
       "beschreibung": "Ein Agent ohne passende Werkzeuge ist ein kluger Kopf ohne Hände. In diesem Kurs findet jeder in der Liste „Agenten-Apps“ das PDF-Programm PdfCraft, installiert es aus der offiziellen Quelle, meldet seinen MCP-Server bei Hermes an und lässt Hermes echte PDFs zusammenfassen, drehen und zusammenfügen. Erster Kurs der Reihe „Agenten, MCP-Apps und n8n“; als 90-Minuten-Kurs oder allein im Selbstlern-Modus.",
+      "sprache": "de",
       "datei": "pakete/was-ist-ein-mcp-server-1.0.0.bonyspaket",
-      "sha256": "c418009bde213c72c00abb61e4590bc39d00c4a8bc63ebe523007304fa4c12df",
+      "sha256": "066fa7f68453d940b7d610bff3797227296ad48c1f653e1bf2e0d0dd6b7b74c5",
       "groesse": 28369
+    },
+    {
+      "id": "was-ist-ein-mcp-server-en",
+      "name": "What is an MCP server? Hermes gets tools",
+      "version": "1.0.0",
+      "stufe": "anfaenger",
+      "dauer_minuten": 90,
+      "beschreibung": "An agent without suitable tools is a clever head without hands. In this course, everyone finds the PDF program PdfCraft in the “Agent Apps” list, installs it from the official source, registers its MCP server with Hermes and has Hermes summarize, rotate and merge real PDFs. First course in the series “Agents, MCP apps and n8n”; as a 90-minute course or on your own in self-study mode.",
+      "sprache": "en",
+      "datei": "pakete/was-ist-ein-mcp-server-en-1.0.0.bonyspaket",
+      "sha256": "5fc5d0d5169ed455c510a2b0979bd40e552410140d9082143ef8e746d05ec8b0",
+      "groesse": 26658
     }
   ]
 }
